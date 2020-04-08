@@ -1,4 +1,4 @@
-package ff_common_lib
+package math
 
 import "testing"
 
