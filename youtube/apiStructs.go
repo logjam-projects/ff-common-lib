@@ -2,10 +2,6 @@ package youtube
 
 import "time"
 
-type Status struct {
-	State string `json:"state,omitempty"`
-}
-
 // Youtube core response
 
 type UserID struct {
