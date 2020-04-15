@@ -1,4 +1,4 @@
-package main
+package httputils
 
 import (
 	"cloud.google.com/go/compute/metadata"
